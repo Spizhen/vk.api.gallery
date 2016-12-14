@@ -1,0 +1,22 @@
+.albums_list {
+height:250px; 
+text-align: center;
+overflow-x:hidden;
+overflow-y:scroll;
+}
+
+.photos_list {
+height:250px; 
+text-align: center;
+overflow-x:hidden;
+overflow-y:scroll;
+}
+
+.show_photo {
+text-align: center;
+float:center;
+}
+
+.header {
+	min-height: 200px;
+}
